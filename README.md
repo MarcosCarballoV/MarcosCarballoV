@@ -5,7 +5,7 @@
   Throughout my career, I have developed more competencies in the field of electronic engineering.
 
 ## 🚀 Passion
-I am passionate about creating hardware and embedded software for electronic systems. 
+I am passionate about creating hardware and embedded software for electronic systems. One day, I would like to work with a focus on designing, testing, and assembling electronic circuits for medical equipment.
 
 ### 🛠 Skills
 - 🔌 Work with ESP32, nRF52840, among other microcontrollers.  

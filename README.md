@@ -9,7 +9,7 @@ I am passionate about creating hardware and embedded software for electronic sys
 
 ### 🛠 Skills
 - 🔌 Work with ESP32, nRF52840, among other microcontrollers.  
-- 🖥 Design advanced PCBs in Altium Designer, with experience in power supplies and energy management.  
+- 🖥 Design advanced PCBs in Altium Designer, now transitioning to KiCad8.
 - 🌐 Development of IoT solutions and BLE (Bluetooth Low Energy) based projects.  
 - 📚 Always learning about new technologies and improving firmware optimization.  
 - 🤝 Open to collaborations on embedded hardware/software projects and PCB design.
